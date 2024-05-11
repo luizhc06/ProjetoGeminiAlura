@@ -1,4 +1,5 @@
-<h1 align="center"> _Projeto Google & Alura_ </h1>
+<h1 align="center"> Projeto Google & Alura </h1>
+
 **Links importantes:**
 
 https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br
